@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+notebook/FashionMNISTDir/FashionMNIST/raw/t10k-images-idx3-ubyte
+notebook/FashionMNISTDir/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+notebook/FashionMNISTDir/FashionMNIST/raw/t10k-labels-idx1-ubyte
+notebook/FashionMNISTDir/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+notebook/FashionMNISTDir/FashionMNIST/raw/train-images-idx3-ubyte
+notebook/FashionMNISTDir/FashionMNIST/raw/train-images-idx3-ubyte.gz
+notebook/FashionMNISTDir/FashionMNIST/raw/train-labels-idx1-ubyte
+notebook/FashionMNISTDir/FashionMNIST/raw/train-labels-idx1-ubyte.gz
